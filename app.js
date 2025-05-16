@@ -1,1 +1,1 @@
-console.log("Hello");
+console.log("Setting git on macOS");
